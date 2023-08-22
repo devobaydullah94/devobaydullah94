@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devobaydullah94
 - 👀 I’m interested in Web Development (MERN Stack)
-- 🌱 I’m currently learning "React.js", " Node.js".
+- 🌱 I’m currently learning "React.js".
 - 📫 How to reach me ... --> https://www.facebook.com/obaydullah.obaydullah.3
 
 <!---
