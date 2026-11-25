@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @devobaydullah94
-- 👀 I’m interested in Web Development (MERN Stack)
-- 🌱 I’m currently learning "React.js".
-- 📫 How to reach me ... --> [Facebook Link](https://www.facebook.com/obaydullah.obaydullah.3)
-- ✨ You can check my portfolio --> [Portfolio Website](https://devobaydullah.netlify.app)
+# Hi, I'm Obaydullah 👋
 
-<!---
-devobaydullah94/devobaydullah94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Next.js Developer
+
+I'm a Web Developer focused on building modern, responsive, and user-friendly web applications with Next.js and modern web technologies.
+
+- 💻 Building web applications with Next.js and React
+- 🌱 Continuously learning and improving my development skills
+- 🛠️ Exploring modern web technologies and tools
+- 🚀 Interested in building practical and scalable projects
+
+### Tech Stack
+
+Next.js • React • TypeScript • JavaScript • Tailwind CSS
+
+### Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/obaydullah-tech
